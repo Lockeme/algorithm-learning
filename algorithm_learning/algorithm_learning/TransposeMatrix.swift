@@ -11,6 +11,7 @@ import Foundation
 public class TransposeMatrix {
     //我的解
     class func transpose(_ matrix: [[Int]]) -> [[Int]] {
+        //创建一个新的二维数组，将原二维数组中元素的下标i和j对调后存到新数组中并返回
         var result = [[Int]]()
         for i in 0..<matrix.count {
             let array = matrix[i]

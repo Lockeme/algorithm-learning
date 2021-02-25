@@ -14,7 +14,9 @@ public class FlipingAnImage {
         var finalArr = [[Int]]()
         for array in A {
             var tempArr = [Int]()
+            //先翻转
             for i in array.reversed() {
+                //再取反
                 if i == 0 {
                     tempArr.append(1)
                 }
