@@ -16,6 +16,9 @@ print("翻转图像:\(FlipingAnImage.flipAndInvertImage_excellent([[1,1,0],[1,0,
 
 //867.转置矩阵
 print("转置矩阵:\(TransposeMatrix.transpose_excellent([[1,2,3],[4,5,6],[7,8,9]]))")
-*/
+
 //1178.猜字谜
 print("猜字谜:\(FindNumOfValidWords.findNumOfValidWords_improve(["apple","pleas","please"], ["aelwxyz","aelpxyz","aelpsxy","saelpxy","xaelpsy"]))")
+*/
+//395.至少有K个重复字符的最长子串
+print("至少有K个重复字符的最长子串:\(LongestSubstring.longestSubstring_excellent("ababbc", 2))")
