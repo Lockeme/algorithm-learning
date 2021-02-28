@@ -13,6 +13,7 @@
 		EF6D868325E7341100EFA87F /* AngryBookStoreBoss.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D868025E7341100EFA87F /* AngryBookStoreBoss.swift */; };
 		EF6D86E725E87F2D00EFA87F /* FindNumOfValidWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D86E625E87F2D00EFA87F /* FindNumOfValidWords.swift */; };
 		EF6D86EA25EA524100EFA87F /* LongestSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D86E925EA524100EFA87F /* LongestSubstring.swift */; };
+		EF6D86ED25EBD9CA00EFA87F /* Monotonic.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D86EC25EBD9CA00EFA87F /* Monotonic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		EF6D868025E7341100EFA87F /* AngryBookStoreBoss.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AngryBookStoreBoss.swift; sourceTree = "<group>"; };
 		EF6D86E625E87F2D00EFA87F /* FindNumOfValidWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindNumOfValidWords.swift; sourceTree = "<group>"; };
 		EF6D86E925EA524100EFA87F /* LongestSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestSubstring.swift; sourceTree = "<group>"; };
+		EF6D86EC25EBD9CA00EFA87F /* Monotonic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Monotonic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				EF6D867F25E7341100EFA87F /* TransposeMatrix.swift */,
 				EF6D86E625E87F2D00EFA87F /* FindNumOfValidWords.swift */,
 				EF6D86E925EA524100EFA87F /* LongestSubstring.swift */,
+				EF6D86EC25EBD9CA00EFA87F /* Monotonic.swift */,
 			);
 			path = algorithm_learning;
 			sourceTree = "<group>";
@@ -134,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF6D86ED25EBD9CA00EFA87F /* Monotonic.swift in Sources */,
 				EF6D86E725E87F2D00EFA87F /* FindNumOfValidWords.swift in Sources */,
 				EF6D868125E7341100EFA87F /* FlipingAnImage.swift in Sources */,
 				EF6D86EA25EA524100EFA87F /* LongestSubstring.swift in Sources */,
