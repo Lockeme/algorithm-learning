@@ -14,6 +14,7 @@
 		EF6D86E725E87F2D00EFA87F /* FindNumOfValidWords.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D86E625E87F2D00EFA87F /* FindNumOfValidWords.swift */; };
 		EF6D86EA25EA524100EFA87F /* LongestSubstring.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D86E925EA524100EFA87F /* LongestSubstring.swift */; };
 		EF6D86ED25EBD9CA00EFA87F /* Monotonic.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D86EC25EBD9CA00EFA87F /* Monotonic.swift */; };
+		EF6D86F025EC6F5700EFA87F /* RangeSumQreryImmutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D86EF25EC6F5700EFA87F /* RangeSumQreryImmutable.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +38,7 @@
 		EF6D86E625E87F2D00EFA87F /* FindNumOfValidWords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindNumOfValidWords.swift; sourceTree = "<group>"; };
 		EF6D86E925EA524100EFA87F /* LongestSubstring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestSubstring.swift; sourceTree = "<group>"; };
 		EF6D86EC25EBD9CA00EFA87F /* Monotonic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Monotonic.swift; sourceTree = "<group>"; };
+		EF6D86EF25EC6F5700EFA87F /* RangeSumQreryImmutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeSumQreryImmutable.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				EF6D86E625E87F2D00EFA87F /* FindNumOfValidWords.swift */,
 				EF6D86E925EA524100EFA87F /* LongestSubstring.swift */,
 				EF6D86EC25EBD9CA00EFA87F /* Monotonic.swift */,
+				EF6D86EF25EC6F5700EFA87F /* RangeSumQreryImmutable.swift */,
 			);
 			path = algorithm_learning;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				EF6D86E725E87F2D00EFA87F /* FindNumOfValidWords.swift in Sources */,
 				EF6D868125E7341100EFA87F /* FlipingAnImage.swift in Sources */,
 				EF6D86EA25EA524100EFA87F /* LongestSubstring.swift in Sources */,
+				EF6D86F025EC6F5700EFA87F /* RangeSumQreryImmutable.swift in Sources */,
 				EF6D868225E7341100EFA87F /* TransposeMatrix.swift in Sources */,
 				EF6D867725E733E300EFA87F /* main.swift in Sources */,
 				EF6D868325E7341100EFA87F /* AngryBookStoreBoss.swift in Sources */,
