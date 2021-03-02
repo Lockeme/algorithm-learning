@@ -4,6 +4,7 @@
 //
 //  Created by Locke on 2021/2/28.
 //
+//  896.单调数列
 
 import Foundation
 
@@ -45,7 +46,7 @@ public class Monotonic {
     }
     
     //速度最快解，执行用时608ms的解
-    //。。。但是复制提交给LeetCode时，执行用时用了660ms，我的解答才644ms
+    //。。。但是复制提交给LeetCode时，执行用时用了660ms，我的解答是644ms
     class func isMonotonic_excellent(_ A: [Int]) -> Bool {
         if A.count <= 1 {
             return true

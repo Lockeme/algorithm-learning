@@ -31,3 +31,12 @@ print("单调数列:\(Monotonic.isMonotonic_excellent([1,2,5,3,3]))")
 
 //303.区域和检索 - 数组不可变
 */
+//304.二维区域和检索 - 矩阵不可变
+let matrix = MatrixSearchExcellent.init([
+    [3, 0, 1, 4, 2],
+    [5, 6, 3, 2, 1],
+    [1, 2, 0, 1, 5],
+    [4, 1, 0, 1, 7],
+    [1, 0, 3, 0, 5]])
+print("二维区域和检索: \(matrix.sumRegion(2, 1, 4, 3))")
+print("二维区域和检索: \(matrix.sumRegion(1, 1, 2, 2))")
