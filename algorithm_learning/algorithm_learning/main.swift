@@ -30,7 +30,7 @@ print("至少有K个重复字符的最长子串:\(LongestSubstring.longestSubstr
 print("单调数列:\(Monotonic.isMonotonic_excellent([1,2,5,3,3]))")
 
 //303.区域和检索 - 数组不可变
-*/
+
 //304.二维区域和检索 - 矩阵不可变
 let matrix = MatrixSearchExcellent.init([
     [3, 0, 1, 4, 2],
@@ -40,3 +40,6 @@ let matrix = MatrixSearchExcellent.init([
     [1, 0, 3, 0, 5]])
 print("二维区域和检索: \(matrix.sumRegion(2, 1, 4, 3))")
 print("二维区域和检索: \(matrix.sumRegion(1, 1, 2, 2))")
+*/
+//338.比特位计数
+print("比特位计数: \(CountBits.countBitsExcellent(8))")
