@@ -17,6 +17,7 @@
 		EF6D86F025EC6F5700EFA87F /* RangeSumQreryImmutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D86EF25EC6F5700EFA87F /* RangeSumQreryImmutable.swift */; };
 		EF6D86F325EDD4AF00EFA87F /* MatrixSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D86F225EDD4AF00EFA87F /* MatrixSearch.swift */; };
 		EF6D86FD25EF39A400EFA87F /* CountingBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D86FC25EF39A400EFA87F /* CountingBits.swift */; };
+		EF6D870425F0718900EFA87F /* FindMajorityElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D870325F0718900EFA87F /* FindMajorityElement.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +44,7 @@
 		EF6D86EF25EC6F5700EFA87F /* RangeSumQreryImmutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RangeSumQreryImmutable.swift; sourceTree = "<group>"; };
 		EF6D86F225EDD4AF00EFA87F /* MatrixSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatrixSearch.swift; sourceTree = "<group>"; };
 		EF6D86FC25EF39A400EFA87F /* CountingBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountingBits.swift; sourceTree = "<group>"; };
+		EF6D870325F0718900EFA87F /* FindMajorityElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMajorityElement.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				EF6D86EF25EC6F5700EFA87F /* RangeSumQreryImmutable.swift */,
 				EF6D86F225EDD4AF00EFA87F /* MatrixSearch.swift */,
 				EF6D86FC25EF39A400EFA87F /* CountingBits.swift */,
+				EF6D870325F0718900EFA87F /* FindMajorityElement.swift */,
 			);
 			path = algorithm_learning;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EF6D86ED25EBD9CA00EFA87F /* Monotonic.swift in Sources */,
+				EF6D870425F0718900EFA87F /* FindMajorityElement.swift in Sources */,
 				EF6D86F325EDD4AF00EFA87F /* MatrixSearch.swift in Sources */,
 				EF6D86E725E87F2D00EFA87F /* FindNumOfValidWords.swift in Sources */,
 				EF6D868125E7341100EFA87F /* FlipingAnImage.swift in Sources */,

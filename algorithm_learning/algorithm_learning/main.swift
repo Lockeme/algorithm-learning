@@ -40,6 +40,9 @@ let matrix = MatrixSearchExcellent.init([
     [1, 0, 3, 0, 5]])
 print("二维区域和检索: \(matrix.sumRegion(2, 1, 4, 3))")
 print("二维区域和检索: \(matrix.sumRegion(1, 1, 2, 2))")
-*/
+
 //338.比特位计数
 print("比特位计数: \(CountBits.countBitsExcellent(8))")
+*/
+//面试题17.10 主要元素
+print("主要元素: \(FindMajorityElement.majorityElementExcellent([1,2,5,9,5,9,5,5,5]))")
