@@ -18,6 +18,7 @@
 		EF6D86F325EDD4AF00EFA87F /* MatrixSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D86F225EDD4AF00EFA87F /* MatrixSearch.swift */; };
 		EF6D86FD25EF39A400EFA87F /* CountingBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D86FC25EF39A400EFA87F /* CountingBits.swift */; };
 		EF6D870425F0718900EFA87F /* FindMajorityElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D870325F0718900EFA87F /* FindMajorityElement.swift */; };
+		EFB5850E25F23F900003C12A /* SortedMerge.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5850D25F23F900003C12A /* SortedMerge.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +46,7 @@
 		EF6D86F225EDD4AF00EFA87F /* MatrixSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatrixSearch.swift; sourceTree = "<group>"; };
 		EF6D86FC25EF39A400EFA87F /* CountingBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountingBits.swift; sourceTree = "<group>"; };
 		EF6D870325F0718900EFA87F /* FindMajorityElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMajorityElement.swift; sourceTree = "<group>"; };
+		EFB5850D25F23F900003C12A /* SortedMerge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortedMerge.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				EF6D86F225EDD4AF00EFA87F /* MatrixSearch.swift */,
 				EF6D86FC25EF39A400EFA87F /* CountingBits.swift */,
 				EF6D870325F0718900EFA87F /* FindMajorityElement.swift */,
+				EFB5850D25F23F900003C12A /* SortedMerge.swift */,
 			);
 			path = algorithm_learning;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 				EF6D86EA25EA524100EFA87F /* LongestSubstring.swift in Sources */,
 				EF6D86F025EC6F5700EFA87F /* RangeSumQreryImmutable.swift in Sources */,
 				EF6D868225E7341100EFA87F /* TransposeMatrix.swift in Sources */,
+				EFB5850E25F23F900003C12A /* SortedMerge.swift in Sources */,
 				EF6D867725E733E300EFA87F /* main.swift in Sources */,
 				EF6D868325E7341100EFA87F /* AngryBookStoreBoss.swift in Sources */,
 			);
