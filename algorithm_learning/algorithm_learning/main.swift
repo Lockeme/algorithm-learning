@@ -46,8 +46,11 @@ print("比特位计数: \(CountBits.countBitsExcellent(8))")
 
 //面试题17.10 主要元素
 print("主要元素: \(FindMajorityElement.majorityElementExcellent([1,2,5,9,5,9,5,5,5]))")
-*/
+
 //面试题10.01 合并排序的数组
 var A = [1,2,3,0,0,0]
 SortedMerge.merge(&A, 3, [2,5,6], 3)
 print("合并排序的数组 \(A)")
+*/
+//1128.等价多米诺骨牌对的数量
+print("等价多米诺骨牌对的数量:\(NumberOfEquivalentDominoPairs.numEquivDominoPairsExcellent([[1,2],[1,2],[1,1],[1,2],[2,2]]))")
