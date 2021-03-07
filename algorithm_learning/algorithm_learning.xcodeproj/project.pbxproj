@@ -20,6 +20,7 @@
 		EF6D870425F0718900EFA87F /* FindMajorityElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D870325F0718900EFA87F /* FindMajorityElement.swift */; };
 		EFB5850E25F23F900003C12A /* SortedMerge.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5850D25F23F900003C12A /* SortedMerge.swift */; };
 		EFB5851125F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5851025F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift */; };
+		EFB5851425F509600003C12A /* KthMissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5851325F509600003C12A /* KthMissingNumber.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -49,6 +50,7 @@
 		EF6D870325F0718900EFA87F /* FindMajorityElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMajorityElement.swift; sourceTree = "<group>"; };
 		EFB5850D25F23F900003C12A /* SortedMerge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortedMerge.swift; sourceTree = "<group>"; };
 		EFB5851025F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfEquivalentDominoPairs.swift; sourceTree = "<group>"; };
+		EFB5851325F509600003C12A /* KthMissingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthMissingNumber.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 				EF6D870325F0718900EFA87F /* FindMajorityElement.swift */,
 				EFB5850D25F23F900003C12A /* SortedMerge.swift */,
 				EFB5851025F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift */,
+				EFB5851325F509600003C12A /* KthMissingNumber.swift */,
 			);
 			path = algorithm_learning;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EF6D86ED25EBD9CA00EFA87F /* Monotonic.swift in Sources */,
+				EFB5851425F509600003C12A /* KthMissingNumber.swift in Sources */,
 				EF6D870425F0718900EFA87F /* FindMajorityElement.swift in Sources */,
 				EF6D86F325EDD4AF00EFA87F /* MatrixSearch.swift in Sources */,
 				EF6D86E725E87F2D00EFA87F /* FindNumOfValidWords.swift in Sources */,
