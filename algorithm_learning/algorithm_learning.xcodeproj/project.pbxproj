@@ -21,6 +21,7 @@
 		EFB5850E25F23F900003C12A /* SortedMerge.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5850D25F23F900003C12A /* SortedMerge.swift */; };
 		EFB5851125F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5851025F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift */; };
 		EFB5851425F509600003C12A /* KthMissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5851325F509600003C12A /* KthMissingNumber.swift */; };
+		EFB5851725F5AA040003C12A /* WinnerOnTicTacToe.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5851625F5AA040003C12A /* WinnerOnTicTacToe.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -51,6 +52,7 @@
 		EFB5850D25F23F900003C12A /* SortedMerge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortedMerge.swift; sourceTree = "<group>"; };
 		EFB5851025F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfEquivalentDominoPairs.swift; sourceTree = "<group>"; };
 		EFB5851325F509600003C12A /* KthMissingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthMissingNumber.swift; sourceTree = "<group>"; };
+		EFB5851625F5AA040003C12A /* WinnerOnTicTacToe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinnerOnTicTacToe.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				EFB5850D25F23F900003C12A /* SortedMerge.swift */,
 				EFB5851025F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift */,
 				EFB5851325F509600003C12A /* KthMissingNumber.swift */,
+				EFB5851625F5AA040003C12A /* WinnerOnTicTacToe.swift */,
 			);
 			path = algorithm_learning;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 				EFB5850E25F23F900003C12A /* SortedMerge.swift in Sources */,
 				EF6D867725E733E300EFA87F /* main.swift in Sources */,
 				EFB5851125F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift in Sources */,
+				EFB5851725F5AA040003C12A /* WinnerOnTicTacToe.swift in Sources */,
 				EF6D868325E7341100EFA87F /* AngryBookStoreBoss.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -54,6 +54,9 @@ print("合并排序的数组 \(A)")
 
 //1128.等价多米诺骨牌对的数量
 print("等价多米诺骨牌对的数量:\(NumberOfEquivalentDominoPairs.numEquivDominoPairsExcellent([[1,2],[1,2],[1,1],[1,2],[2,2]]))")
- */
+ 
 //1539.第k个缺失的正整数
 print("第k个缺失的正整数:\(KthMissingNumber.findKthPositive([5,6,7,8, 9], 9))")
+*/
+//1275.找出井字棋的获胜者
+print("找出井字棋的获胜者:\(WinnerOnTicTacToe.tictactoe([[0,0],[2,0],[1,1],[2,1],[2,2]]))")
