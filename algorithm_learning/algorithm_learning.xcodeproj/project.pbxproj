@@ -22,6 +22,7 @@
 		EFB5851125F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5851025F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift */; };
 		EFB5851425F509600003C12A /* KthMissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5851325F509600003C12A /* KthMissingNumber.swift */; };
 		EFB5851725F5AA040003C12A /* WinnerOnTicTacToe.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5851625F5AA040003C12A /* WinnerOnTicTacToe.swift */; };
+		EFB5851A25F71D270003C12A /* RankTransformArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5851925F71D270003C12A /* RankTransformArray.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -53,6 +54,7 @@
 		EFB5851025F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfEquivalentDominoPairs.swift; sourceTree = "<group>"; };
 		EFB5851325F509600003C12A /* KthMissingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthMissingNumber.swift; sourceTree = "<group>"; };
 		EFB5851625F5AA040003C12A /* WinnerOnTicTacToe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinnerOnTicTacToe.swift; sourceTree = "<group>"; };
+		EFB5851925F71D270003C12A /* RankTransformArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankTransformArray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				EFB5851025F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift */,
 				EFB5851325F509600003C12A /* KthMissingNumber.swift */,
 				EFB5851625F5AA040003C12A /* WinnerOnTicTacToe.swift */,
+				EFB5851925F71D270003C12A /* RankTransformArray.swift */,
 			);
 			path = algorithm_learning;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 				EF6D86EA25EA524100EFA87F /* LongestSubstring.swift in Sources */,
 				EF6D86F025EC6F5700EFA87F /* RangeSumQreryImmutable.swift in Sources */,
 				EF6D868225E7341100EFA87F /* TransposeMatrix.swift in Sources */,
+				EFB5851A25F71D270003C12A /* RankTransformArray.swift in Sources */,
 				EFB5850E25F23F900003C12A /* SortedMerge.swift in Sources */,
 				EF6D867725E733E300EFA87F /* main.swift in Sources */,
 				EFB5851125F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift in Sources */,
