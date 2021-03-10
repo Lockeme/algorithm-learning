@@ -60,6 +60,9 @@ print("第k个缺失的正整数:\(KthMissingNumber.findKthPositive([5,6,7,8, 9]
 
 //1275.找出井字棋的获胜者
 print("找出井字棋的获胜者:\(WinnerOnTicTacToe.tictactoe([[0,0],[2,0],[1,1],[2,1],[2,2]]))")
-*/
+
 //1331.数组序号转换
 print("数组序号转换:\(RankTransformArray.arrayRankTransformExcellent([40,10,20,30]))")
+*/
+//  剑指offer 53.在排序数组中查找数字
+print("在排序数组中查找数字:\(SearchNumOnArray.searchExcellent([5,7,7,8,8,10], 8))")
