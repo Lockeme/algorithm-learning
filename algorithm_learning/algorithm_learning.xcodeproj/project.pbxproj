@@ -18,6 +18,7 @@
 		EF6D86F325EDD4AF00EFA87F /* MatrixSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D86F225EDD4AF00EFA87F /* MatrixSearch.swift */; };
 		EF6D86FD25EF39A400EFA87F /* CountingBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D86FC25EF39A400EFA87F /* CountingBits.swift */; };
 		EF6D870425F0718900EFA87F /* FindMajorityElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D870325F0718900EFA87F /* FindMajorityElement.swift */; };
+		EFB34BD125F9E72B002D0148 /* SlowestKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB34BD025F9E72B002D0148 /* SlowestKey.swift */; };
 		EFB5850E25F23F900003C12A /* SortedMerge.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5850D25F23F900003C12A /* SortedMerge.swift */; };
 		EFB5851125F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5851025F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift */; };
 		EFB5851425F509600003C12A /* KthMissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5851325F509600003C12A /* KthMissingNumber.swift */; };
@@ -51,6 +52,7 @@
 		EF6D86F225EDD4AF00EFA87F /* MatrixSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatrixSearch.swift; sourceTree = "<group>"; };
 		EF6D86FC25EF39A400EFA87F /* CountingBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountingBits.swift; sourceTree = "<group>"; };
 		EF6D870325F0718900EFA87F /* FindMajorityElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMajorityElement.swift; sourceTree = "<group>"; };
+		EFB34BD025F9E72B002D0148 /* SlowestKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlowestKey.swift; sourceTree = "<group>"; };
 		EFB5850D25F23F900003C12A /* SortedMerge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortedMerge.swift; sourceTree = "<group>"; };
 		EFB5851025F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfEquivalentDominoPairs.swift; sourceTree = "<group>"; };
 		EFB5851325F509600003C12A /* KthMissingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthMissingNumber.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				EFB5851625F5AA040003C12A /* WinnerOnTicTacToe.swift */,
 				EFB5851925F71D270003C12A /* RankTransformArray.swift */,
 				EFB5852725F8554B0003C12A /* SearchNumberOnSortedArray.swift */,
+				EFB34BD025F9E72B002D0148 /* SlowestKey.swift */,
 			);
 			path = algorithm_learning;
 			sourceTree = "<group>";
@@ -168,6 +171,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EF6D86ED25EBD9CA00EFA87F /* Monotonic.swift in Sources */,
+				EFB34BD125F9E72B002D0148 /* SlowestKey.swift in Sources */,
 				EFB5851425F509600003C12A /* KthMissingNumber.swift in Sources */,
 				EF6D870425F0718900EFA87F /* FindMajorityElement.swift in Sources */,
 				EF6D86F325EDD4AF00EFA87F /* MatrixSearch.swift in Sources */,

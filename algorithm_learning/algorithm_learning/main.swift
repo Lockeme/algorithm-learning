@@ -63,6 +63,9 @@ print("找出井字棋的获胜者:\(WinnerOnTicTacToe.tictactoe([[0,0],[2,0],[1
 
 //1331.数组序号转换
 print("数组序号转换:\(RankTransformArray.arrayRankTransformExcellent([40,10,20,30]))")
-*/
+
 //  剑指offer 53.在排序数组中查找数字
 print("在排序数组中查找数字:\(SearchNumOnArray.searchExcellent([5,7,7,8,8,10], 8))")
+*/
+//  1629.按键持续时间最长的键
+print("按键持续时间最长的键:\(SlowestKey.slowestKeyExcellent([12,23,36,46,62], "spuda"))")
