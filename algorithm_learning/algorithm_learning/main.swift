@@ -66,6 +66,9 @@ print("数组序号转换:\(RankTransformArray.arrayRankTransformExcellent([40,1
 
 //  剑指offer 53.在排序数组中查找数字
 print("在排序数组中查找数字:\(SearchNumOnArray.searchExcellent([5,7,7,8,8,10], 8))")
-*/
+
 //  1629.按键持续时间最长的键
 print("按键持续时间最长的键:\(SlowestKey.slowestKeyExcellent([12,23,36,46,62], "spuda"))")
+*/
+//  1018.可被5整除的二进制前缀
+print("可被5整除的二进制前缀:\(BinaryPrefixDivisibleBy5.prefixesDivBy5([1,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,1,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,1,1,0,0,1,0]))")
