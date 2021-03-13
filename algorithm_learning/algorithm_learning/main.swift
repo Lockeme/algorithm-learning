@@ -69,6 +69,9 @@ print("在排序数组中查找数字:\(SearchNumOnArray.searchExcellent([5,7,7,
 
 //  1629.按键持续时间最长的键
 print("按键持续时间最长的键:\(SlowestKey.slowestKeyExcellent([12,23,36,46,62], "spuda"))")
-*/
+
 //  1018.可被5整除的二进制前缀
 print("可被5整除的二进制前缀:\(BinaryPrefixDivisibleBy5.prefixesDivBy5([1,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,1,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,1,1,0,0,1,0]))")
+*/
+//  1646.获取生成数组中的最大值
+print("获取生成数组中的最大值:\(GetMaximumGenerated.getMaximumGenerated(15))")
