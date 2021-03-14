@@ -72,6 +72,9 @@ print("按键持续时间最长的键:\(SlowestKey.slowestKeyExcellent([12,23,36
 
 //  1018.可被5整除的二进制前缀
 print("可被5整除的二进制前缀:\(BinaryPrefixDivisibleBy5.prefixesDivBy5([1,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1,1,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,1,0,1,1,1,0,0,1,0]))")
-*/
+
 //  1646.获取生成数组中的最大值
 print("获取生成数组中的最大值:\(GetMaximumGenerated.getMaximumGenerated(15))")
+*/
+//  面试题 16.15 珠玑妙算
+print("面试题 16.15 珠玑妙算:\(MasterMind.masterMind("RGBY", "GGRR"))")
