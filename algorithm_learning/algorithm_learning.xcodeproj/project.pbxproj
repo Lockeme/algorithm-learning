@@ -22,6 +22,7 @@
 		EFB34BD425FB37C4002D0148 /* BinaryPrefixDivisibleBy5.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB34BD325FB37C4002D0148 /* BinaryPrefixDivisibleBy5.swift */; };
 		EFB34BDF25FCF5D8002D0148 /* GetMaximumGenerated.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB34BDE25FCF5D8002D0148 /* GetMaximumGenerated.swift */; };
 		EFB34BE225FDF858002D0148 /* MasterMind.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB34BE125FDF858002D0148 /* MasterMind.swift */; };
+		EFB34BE525FEEA2D002D0148 /* AddToArrayFormOfInt.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB34BE425FEEA2D002D0148 /* AddToArrayFormOfInt.swift */; };
 		EFB5850E25F23F900003C12A /* SortedMerge.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5850D25F23F900003C12A /* SortedMerge.swift */; };
 		EFB5851125F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5851025F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift */; };
 		EFB5851425F509600003C12A /* KthMissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5851325F509600003C12A /* KthMissingNumber.swift */; };
@@ -59,6 +60,7 @@
 		EFB34BD325FB37C4002D0148 /* BinaryPrefixDivisibleBy5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryPrefixDivisibleBy5.swift; sourceTree = "<group>"; };
 		EFB34BDE25FCF5D8002D0148 /* GetMaximumGenerated.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetMaximumGenerated.swift; sourceTree = "<group>"; };
 		EFB34BE125FDF858002D0148 /* MasterMind.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterMind.swift; sourceTree = "<group>"; };
+		EFB34BE425FEEA2D002D0148 /* AddToArrayFormOfInt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToArrayFormOfInt.swift; sourceTree = "<group>"; };
 		EFB5850D25F23F900003C12A /* SortedMerge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortedMerge.swift; sourceTree = "<group>"; };
 		EFB5851025F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfEquivalentDominoPairs.swift; sourceTree = "<group>"; };
 		EFB5851325F509600003C12A /* KthMissingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KthMissingNumber.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				EFB34BD325FB37C4002D0148 /* BinaryPrefixDivisibleBy5.swift */,
 				EFB34BDE25FCF5D8002D0148 /* GetMaximumGenerated.swift */,
 				EFB34BE125FDF858002D0148 /* MasterMind.swift */,
+				EFB34BE425FEEA2D002D0148 /* AddToArrayFormOfInt.swift */,
 			);
 			path = algorithm_learning;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 				EF6D86ED25EBD9CA00EFA87F /* Monotonic.swift in Sources */,
 				EFB34BD125F9E72B002D0148 /* SlowestKey.swift in Sources */,
 				EFB5851425F509600003C12A /* KthMissingNumber.swift in Sources */,
+				EFB34BE525FEEA2D002D0148 /* AddToArrayFormOfInt.swift in Sources */,
 				EF6D870425F0718900EFA87F /* FindMajorityElement.swift in Sources */,
 				EF6D86F325EDD4AF00EFA87F /* MatrixSearch.swift in Sources */,
 				EFB34BDF25FCF5D8002D0148 /* GetMaximumGenerated.swift in Sources */,

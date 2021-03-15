@@ -75,6 +75,9 @@ print("可被5整除的二进制前缀:\(BinaryPrefixDivisibleBy5.prefixesDivBy5
 
 //  1646.获取生成数组中的最大值
 print("获取生成数组中的最大值:\(GetMaximumGenerated.getMaximumGenerated(15))")
-*/
+
 //  面试题 16.15 珠玑妙算
-print("面试题 16.15 珠玑妙算:\(MasterMind.masterMind("RGBY", "GGRR"))")
+print("珠玑妙算:\(MasterMind.masterMind("RGBY", "GGRR"))")
+*/
+//  989.数组形式的整数加法
+print("数组形式的整数加法:\(AddToArrayFormOfInt.addToArrayFormExcellent([0], 10000))")
