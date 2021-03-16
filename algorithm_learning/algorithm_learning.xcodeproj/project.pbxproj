@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EF3C302E26003F7400CE1AF1 /* CheckStraigntLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3C302D26003F7400CE1AF1 /* CheckStraigntLine.swift */; };
 		EF6D867725E733E300EFA87F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D867625E733E300EFA87F /* main.swift */; };
 		EF6D868125E7341100EFA87F /* FlipingAnImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D867E25E7341100EFA87F /* FlipingAnImage.swift */; };
 		EF6D868225E7341100EFA87F /* TransposeMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D867F25E7341100EFA87F /* TransposeMatrix.swift */; };
@@ -44,6 +45,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		EF3C302D26003F7400CE1AF1 /* CheckStraigntLine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckStraigntLine.swift; sourceTree = "<group>"; };
 		EF6D867325E733E300EFA87F /* algorithm_learning */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithm_learning; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF6D867625E733E300EFA87F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		EF6D867E25E7341100EFA87F /* FlipingAnImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlipingAnImage.swift; sourceTree = "<group>"; };
@@ -121,6 +123,7 @@
 				EFB34BDE25FCF5D8002D0148 /* GetMaximumGenerated.swift */,
 				EFB34BE125FDF858002D0148 /* MasterMind.swift */,
 				EFB34BE425FEEA2D002D0148 /* AddToArrayFormOfInt.swift */,
+				EF3C302D26003F7400CE1AF1 /* CheckStraigntLine.swift */,
 			);
 			path = algorithm_learning;
 			sourceTree = "<group>";
@@ -190,6 +193,7 @@
 				EF6D86F325EDD4AF00EFA87F /* MatrixSearch.swift in Sources */,
 				EFB34BDF25FCF5D8002D0148 /* GetMaximumGenerated.swift in Sources */,
 				EF6D86E725E87F2D00EFA87F /* FindNumOfValidWords.swift in Sources */,
+				EF3C302E26003F7400CE1AF1 /* CheckStraigntLine.swift in Sources */,
 				EFB34BE225FDF858002D0148 /* MasterMind.swift in Sources */,
 				EF6D868125E7341100EFA87F /* FlipingAnImage.swift in Sources */,
 				EF6D86FD25EF39A400EFA87F /* CountingBits.swift in Sources */,

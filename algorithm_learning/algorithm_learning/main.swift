@@ -78,6 +78,9 @@ print("获取生成数组中的最大值:\(GetMaximumGenerated.getMaximumGenerat
 
 //  面试题 16.15 珠玑妙算
 print("珠玑妙算:\(MasterMind.masterMind("RGBY", "GGRR"))")
-*/
+
 //  989.数组形式的整数加法
 print("数组形式的整数加法:\(AddToArrayFormOfInt.addToArrayFormExcellent([0], 10000))")
+*/
+//  1232.缀点成线
+print("缀点成线:\(CheckStraingtLine.checkStraightLine([[1,2],[2,3],[3,4],[4,5],[5,6],[6,7]]))")
