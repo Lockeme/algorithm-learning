@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		EF3C302E26003F7400CE1AF1 /* CheckStraigntLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3C302D26003F7400CE1AF1 /* CheckStraigntLine.swift */; };
+		EF3C303726018BF900CE1AF1 /* SpiralOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3C303626018BF900CE1AF1 /* SpiralOrder.swift */; };
 		EF6D867725E733E300EFA87F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D867625E733E300EFA87F /* main.swift */; };
 		EF6D868125E7341100EFA87F /* FlipingAnImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D867E25E7341100EFA87F /* FlipingAnImage.swift */; };
 		EF6D868225E7341100EFA87F /* TransposeMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D867F25E7341100EFA87F /* TransposeMatrix.swift */; };
@@ -46,6 +47,7 @@
 
 /* Begin PBXFileReference section */
 		EF3C302D26003F7400CE1AF1 /* CheckStraigntLine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckStraigntLine.swift; sourceTree = "<group>"; };
+		EF3C303626018BF900CE1AF1 /* SpiralOrder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiralOrder.swift; sourceTree = "<group>"; };
 		EF6D867325E733E300EFA87F /* algorithm_learning */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithm_learning; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF6D867625E733E300EFA87F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		EF6D867E25E7341100EFA87F /* FlipingAnImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlipingAnImage.swift; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 				EFB34BE125FDF858002D0148 /* MasterMind.swift */,
 				EFB34BE425FEEA2D002D0148 /* AddToArrayFormOfInt.swift */,
 				EF3C302D26003F7400CE1AF1 /* CheckStraigntLine.swift */,
+				EF3C303626018BF900CE1AF1 /* SpiralOrder.swift */,
 			);
 			path = algorithm_learning;
 			sourceTree = "<group>";
@@ -188,6 +191,7 @@
 				EF6D86ED25EBD9CA00EFA87F /* Monotonic.swift in Sources */,
 				EFB34BD125F9E72B002D0148 /* SlowestKey.swift in Sources */,
 				EFB5851425F509600003C12A /* KthMissingNumber.swift in Sources */,
+				EF3C303726018BF900CE1AF1 /* SpiralOrder.swift in Sources */,
 				EFB34BE525FEEA2D002D0148 /* AddToArrayFormOfInt.swift in Sources */,
 				EF6D870425F0718900EFA87F /* FindMajorityElement.swift in Sources */,
 				EF6D86F325EDD4AF00EFA87F /* MatrixSearch.swift in Sources */,

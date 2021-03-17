@@ -81,6 +81,9 @@ print("珠玑妙算:\(MasterMind.masterMind("RGBY", "GGRR"))")
 
 //  989.数组形式的整数加法
 print("数组形式的整数加法:\(AddToArrayFormOfInt.addToArrayFormExcellent([0], 10000))")
-*/
+
 //  1232.缀点成线
 print("缀点成线:\(CheckStraingtLine.checkStraightLine([[1,2],[2,3],[3,4],[4,5],[5,6],[6,7]]))")
+*/
+//  剑指Offer 29.顺时针打印矩阵
+print("顺时针打印矩阵:\(SpiralOrder.spiralOrder([[3],[2]]))")
