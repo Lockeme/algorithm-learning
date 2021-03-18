@@ -84,6 +84,9 @@ print("数组形式的整数加法:\(AddToArrayFormOfInt.addToArrayFormExcellent
 
 //  1232.缀点成线
 print("缀点成线:\(CheckStraingtLine.checkStraightLine([[1,2],[2,3],[3,4],[4,5],[5,6],[6,7]]))")
-*/
+
 //  剑指Offer 29.顺时针打印矩阵
 print("顺时针打印矩阵:\(SpiralOrder.spiralOrder([[3],[2]]))")
+*/
+//  剑指Offer 53 - II. 0~n-1中缺失的数字
+print("0~n-1中缺失的数字:\(MissingNumber.missingNumber([1,2]))")
