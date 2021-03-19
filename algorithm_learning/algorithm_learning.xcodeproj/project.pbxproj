@@ -10,6 +10,7 @@
 		EF3C302E26003F7400CE1AF1 /* CheckStraigntLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3C302D26003F7400CE1AF1 /* CheckStraigntLine.swift */; };
 		EF3C303726018BF900CE1AF1 /* SpiralOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3C303626018BF900CE1AF1 /* SpiralOrder.swift */; };
 		EF3C303E2602DC6600CE1AF1 /* MissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3C303D2602DC6600CE1AF1 /* MissingNumber.swift */; };
+		EF3C306526043EF000CE1AF1 /* CheckDoubleExist.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3C306426043EF000CE1AF1 /* CheckDoubleExist.swift */; };
 		EF6D867725E733E300EFA87F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D867625E733E300EFA87F /* main.swift */; };
 		EF6D868125E7341100EFA87F /* FlipingAnImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D867E25E7341100EFA87F /* FlipingAnImage.swift */; };
 		EF6D868225E7341100EFA87F /* TransposeMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D867F25E7341100EFA87F /* TransposeMatrix.swift */; };
@@ -50,6 +51,7 @@
 		EF3C302D26003F7400CE1AF1 /* CheckStraigntLine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckStraigntLine.swift; sourceTree = "<group>"; };
 		EF3C303626018BF900CE1AF1 /* SpiralOrder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiralOrder.swift; sourceTree = "<group>"; };
 		EF3C303D2602DC6600CE1AF1 /* MissingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissingNumber.swift; sourceTree = "<group>"; };
+		EF3C306426043EF000CE1AF1 /* CheckDoubleExist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckDoubleExist.swift; sourceTree = "<group>"; };
 		EF6D867325E733E300EFA87F /* algorithm_learning */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithm_learning; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF6D867625E733E300EFA87F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		EF6D867E25E7341100EFA87F /* FlipingAnImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlipingAnImage.swift; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 				EF3C302D26003F7400CE1AF1 /* CheckStraigntLine.swift */,
 				EF3C303626018BF900CE1AF1 /* SpiralOrder.swift */,
 				EF3C303D2602DC6600CE1AF1 /* MissingNumber.swift */,
+				EF3C306426043EF000CE1AF1 /* CheckDoubleExist.swift */,
 			);
 			path = algorithm_learning;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 				EFB5852825F8554B0003C12A /* SearchNumberOnSortedArray.swift in Sources */,
 				EFB5851A25F71D270003C12A /* RankTransformArray.swift in Sources */,
 				EFB34BD425FB37C4002D0148 /* BinaryPrefixDivisibleBy5.swift in Sources */,
+				EF3C306526043EF000CE1AF1 /* CheckDoubleExist.swift in Sources */,
 				EFB5850E25F23F900003C12A /* SortedMerge.swift in Sources */,
 				EF6D867725E733E300EFA87F /* main.swift in Sources */,
 				EFB5851125F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift in Sources */,

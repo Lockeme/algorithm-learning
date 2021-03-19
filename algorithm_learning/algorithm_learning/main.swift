@@ -87,6 +87,9 @@ print("缀点成线:\(CheckStraingtLine.checkStraightLine([[1,2],[2,3],[3,4],[4,
 
 //  剑指Offer 29.顺时针打印矩阵
 print("顺时针打印矩阵:\(SpiralOrder.spiralOrder([[3],[2]]))")
-*/
+
 //  剑指Offer 53 - II. 0~n-1中缺失的数字
 print("0~n-1中缺失的数字:\(MissingNumber.missingNumber([1,2]))")
+*/
+//  1346.检查整数及其两倍数是否存在
+print("检查整数及其两倍数是否存在:\(CheckDoubleExist.checkIfExistExcellent([-20,8,-6,-14,0,-19,14,4]))")
