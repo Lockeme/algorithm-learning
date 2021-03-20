@@ -90,6 +90,9 @@ print("顺时针打印矩阵:\(SpiralOrder.spiralOrder([[3],[2]]))")
 
 //  剑指Offer 53 - II. 0~n-1中缺失的数字
 print("0~n-1中缺失的数字:\(MissingNumber.missingNumber([1,2]))")
-*/
+
 //  1346.检查整数及其两倍数是否存在
 print("检查整数及其两倍数是否存在:\(CheckDoubleExist.checkIfExistExcellent([-20,8,-6,-14,0,-19,14,4]))")
+ */
+//  1566. 重复至少 K 次且长度为 M 的模式
+print("1566. 重复至少 K 次且长度为 M 的模式:\(LengthMRepeatKMode.containsPattern([2,2,2,2], 2, 3))")
