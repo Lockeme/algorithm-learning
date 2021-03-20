@@ -93,6 +93,9 @@ print("0~n-1中缺失的数字:\(MissingNumber.missingNumber([1,2]))")
 
 //  1346.检查整数及其两倍数是否存在
 print("检查整数及其两倍数是否存在:\(CheckDoubleExist.checkIfExistExcellent([-20,8,-6,-14,0,-19,14,4]))")
- */
+
 //  1566. 重复至少 K 次且长度为 M 的模式
 print("1566. 重复至少 K 次且长度为 M 的模式:\(LengthMRepeatKMode.containsPattern([2,2,2,2], 2, 3))")
+*/
+//  1013. 将数组分成和相等的三个部分
+print("将数组分成和相等的三个部分:\(ThreePartWithSumByArray.canThreePartsEqualSumExcellent([0,2,1,-6,6,-7,9,1,2,0,1]))")
