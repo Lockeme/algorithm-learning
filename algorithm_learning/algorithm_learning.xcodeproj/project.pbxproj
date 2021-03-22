@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EF315F5D26081D060057AA4D /* ValidMountainArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF315F5C26081D060057AA4D /* ValidMountainArray.swift */; };
 		EF3C302E26003F7400CE1AF1 /* CheckStraigntLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3C302D26003F7400CE1AF1 /* CheckStraigntLine.swift */; };
 		EF3C303726018BF900CE1AF1 /* SpiralOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3C303626018BF900CE1AF1 /* SpiralOrder.swift */; };
 		EF3C303E2602DC6600CE1AF1 /* MissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3C303D2602DC6600CE1AF1 /* MissingNumber.swift */; };
@@ -50,6 +51,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		EF315F5C26081D060057AA4D /* ValidMountainArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidMountainArray.swift; sourceTree = "<group>"; };
 		EF3C302D26003F7400CE1AF1 /* CheckStraigntLine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckStraigntLine.swift; sourceTree = "<group>"; };
 		EF3C303626018BF900CE1AF1 /* SpiralOrder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiralOrder.swift; sourceTree = "<group>"; };
 		EF3C303D2602DC6600CE1AF1 /* MissingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissingNumber.swift; sourceTree = "<group>"; };
@@ -139,6 +141,7 @@
 				EF3C306426043EF000CE1AF1 /* CheckDoubleExist.swift */,
 				EF3C30B52605964900CE1AF1 /* LengthMRepeatKMode.swift */,
 				EF3C30B8260665DF00CE1AF1 /* ThreePartWithSumByArray.swift */,
+				EF315F5C26081D060057AA4D /* ValidMountainArray.swift */,
 			);
 			path = algorithm_learning;
 			sourceTree = "<group>";
@@ -226,6 +229,7 @@
 				EFB5851125F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift in Sources */,
 				EF3C303E2602DC6600CE1AF1 /* MissingNumber.swift in Sources */,
 				EFB5851725F5AA040003C12A /* WinnerOnTicTacToe.swift in Sources */,
+				EF315F5D26081D060057AA4D /* ValidMountainArray.swift in Sources */,
 				EF3C30B62605964900CE1AF1 /* LengthMRepeatKMode.swift in Sources */,
 				EF6D868325E7341100EFA87F /* AngryBookStoreBoss.swift in Sources */,
 			);

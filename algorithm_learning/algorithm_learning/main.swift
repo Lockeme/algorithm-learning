@@ -96,6 +96,9 @@ print("检查整数及其两倍数是否存在:\(CheckDoubleExist.checkIfExistEx
 
 //  1566. 重复至少 K 次且长度为 M 的模式
 print("1566. 重复至少 K 次且长度为 M 的模式:\(LengthMRepeatKMode.containsPattern([2,2,2,2], 2, 3))")
-*/
+
 //  1013. 将数组分成和相等的三个部分
 print("将数组分成和相等的三个部分:\(ThreePartWithSumByArray.canThreePartsEqualSumExcellent([0,2,1,-6,6,-7,9,1,2,0,1]))")
+*/
+//  941.有效的山脉数组
+print("有效的山脉数组:\(ValidMountainArray.validMountainArray([0,3,2,1]))")
