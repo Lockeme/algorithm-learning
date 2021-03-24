@@ -37,6 +37,7 @@
 		EFB5851725F5AA040003C12A /* WinnerOnTicTacToe.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5851625F5AA040003C12A /* WinnerOnTicTacToe.swift */; };
 		EFB5851A25F71D270003C12A /* RankTransformArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5851925F71D270003C12A /* RankTransformArray.swift */; };
 		EFB5852825F8554B0003C12A /* SearchNumberOnSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5852725F8554B0003C12A /* SearchNumberOnSortedArray.swift */; };
+		EFD13A45260B588900FBAF4A /* MinimunMovesChipsToSamePosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFD13A44260B588900FBAF4A /* MinimunMovesChipsToSamePosition.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -83,6 +84,7 @@
 		EFB5851625F5AA040003C12A /* WinnerOnTicTacToe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinnerOnTicTacToe.swift; sourceTree = "<group>"; };
 		EFB5851925F71D270003C12A /* RankTransformArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankTransformArray.swift; sourceTree = "<group>"; };
 		EFB5852725F8554B0003C12A /* SearchNumberOnSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchNumberOnSortedArray.swift; sourceTree = "<group>"; };
+		EFD13A44260B588900FBAF4A /* MinimunMovesChipsToSamePosition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimunMovesChipsToSamePosition.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,6 +147,7 @@
 				EF3C30B8260665DF00CE1AF1 /* ThreePartWithSumByArray.swift */,
 				EF315F5C26081D060057AA4D /* ValidMountainArray.swift */,
 				EF5DDB0A2609A54900FA23D9 /* XKindOfCards.swift */,
+				EFD13A44260B588900FBAF4A /* MinimunMovesChipsToSamePosition.swift */,
 			);
 			path = algorithm_learning;
 			sourceTree = "<group>";
@@ -235,6 +238,7 @@
 				EF315F5D26081D060057AA4D /* ValidMountainArray.swift in Sources */,
 				EF5DDB0B2609A54900FA23D9 /* XKindOfCards.swift in Sources */,
 				EF3C30B62605964900CE1AF1 /* LengthMRepeatKMode.swift in Sources */,
+				EFD13A45260B588900FBAF4A /* MinimunMovesChipsToSamePosition.swift in Sources */,
 				EF6D868325E7341100EFA87F /* AngryBookStoreBoss.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

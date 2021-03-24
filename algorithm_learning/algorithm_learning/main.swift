@@ -102,6 +102,9 @@ print("将数组分成和相等的三个部分:\(ThreePartWithSumByArray.canThre
 
 //  941.有效的山脉数组
 print("有效的山脉数组:\(ValidMountainArray.validMountainArray([0,3,2,1]))")
-*/
+
 //  914.卡牌分组
 print("卡牌分组:\(XKindOfCards.hasGroupsSizeX([1,1,1,2,2,2,3,3]))")
+*/
+//  1217.玩筹码
+print("玩筹码:\(MinimunMovesChipsToSamePosition.minCostToMoveChips([2,2,2,3,3]))")
