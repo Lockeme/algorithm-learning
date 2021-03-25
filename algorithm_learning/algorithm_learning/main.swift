@@ -105,6 +105,9 @@ print("有效的山脉数组:\(ValidMountainArray.validMountainArray([0,3,2,1]))
 
 //  914.卡牌分组
 print("卡牌分组:\(XKindOfCards.hasGroupsSizeX([1,1,1,2,2,2,3,3]))")
-*/
+
 //  1217.玩筹码
 print("玩筹码:\(MinimunMovesChipsToSamePosition.minCostToMoveChips([2,2,2,3,3]))")
+*/
+//  1480.一维数组动态和
+print("一维数组动态和:\(SumOfArray.runningSum([3,1,2,10,1]))")

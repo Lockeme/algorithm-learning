@@ -38,6 +38,7 @@
 		EFB5851A25F71D270003C12A /* RankTransformArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5851925F71D270003C12A /* RankTransformArray.swift */; };
 		EFB5852825F8554B0003C12A /* SearchNumberOnSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5852725F8554B0003C12A /* SearchNumberOnSortedArray.swift */; };
 		EFD13A45260B588900FBAF4A /* MinimunMovesChipsToSamePosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFD13A44260B588900FBAF4A /* MinimunMovesChipsToSamePosition.swift */; };
+		EFD13A5C260C4AB200FBAF4A /* SumOfArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFD13A5B260C4AB200FBAF4A /* SumOfArray.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -85,6 +86,7 @@
 		EFB5851925F71D270003C12A /* RankTransformArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankTransformArray.swift; sourceTree = "<group>"; };
 		EFB5852725F8554B0003C12A /* SearchNumberOnSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchNumberOnSortedArray.swift; sourceTree = "<group>"; };
 		EFD13A44260B588900FBAF4A /* MinimunMovesChipsToSamePosition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimunMovesChipsToSamePosition.swift; sourceTree = "<group>"; };
+		EFD13A5B260C4AB200FBAF4A /* SumOfArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfArray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 				EF315F5C26081D060057AA4D /* ValidMountainArray.swift */,
 				EF5DDB0A2609A54900FA23D9 /* XKindOfCards.swift */,
 				EFD13A44260B588900FBAF4A /* MinimunMovesChipsToSamePosition.swift */,
+				EFD13A5B260C4AB200FBAF4A /* SumOfArray.swift */,
 			);
 			path = algorithm_learning;
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 				EFB5852825F8554B0003C12A /* SearchNumberOnSortedArray.swift in Sources */,
 				EFB5851A25F71D270003C12A /* RankTransformArray.swift in Sources */,
 				EFB34BD425FB37C4002D0148 /* BinaryPrefixDivisibleBy5.swift in Sources */,
+				EFD13A5C260C4AB200FBAF4A /* SumOfArray.swift in Sources */,
 				EF3C306526043EF000CE1AF1 /* CheckDoubleExist.swift in Sources */,
 				EFB5850E25F23F900003C12A /* SortedMerge.swift in Sources */,
 				EF6D867725E733E300EFA87F /* main.swift in Sources */,
