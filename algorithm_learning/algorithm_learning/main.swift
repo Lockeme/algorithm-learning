@@ -111,6 +111,9 @@ print("玩筹码:\(MinimunMovesChipsToSamePosition.minCostToMoveChips([2,2,2,3,3
 
 //  1480.一维数组动态和
 print("一维数组动态和:\(SumOfArray.runningSum([3,1,2,10,1]))")
-*/
+
 //  1672. 最富有客户的资产总量
 print("最富有客户的资产总量:\(RichestCustomerWealth.maximumWealth([[1,5],[7,3],[3,5]]))")
+*/
+//  1512. 好数对的数目
+print("好数对的数目:\(NumberOfGoodPairs.numIdenticalPairs([1,2,3]))")

@@ -37,6 +37,7 @@
 		EFB5851725F5AA040003C12A /* WinnerOnTicTacToe.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5851625F5AA040003C12A /* WinnerOnTicTacToe.swift */; };
 		EFB5851A25F71D270003C12A /* RankTransformArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5851925F71D270003C12A /* RankTransformArray.swift */; };
 		EFB5852825F8554B0003C12A /* SearchNumberOnSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB5852725F8554B0003C12A /* SearchNumberOnSortedArray.swift */; };
+		EFC96530260ED341000F1191 /* NumbersOfGoodPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFC9652F260ED341000F1191 /* NumbersOfGoodPairs.swift */; };
 		EFD13A45260B588900FBAF4A /* MinimunMovesChipsToSamePosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFD13A44260B588900FBAF4A /* MinimunMovesChipsToSamePosition.swift */; };
 		EFD13A5C260C4AB200FBAF4A /* SumOfArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFD13A5B260C4AB200FBAF4A /* SumOfArray.swift */; };
 		EFD13AC2260DF70700FBAF4A /* RichestCustomerWealth.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFD13AC1260DF70700FBAF4A /* RichestCustomerWealth.swift */; };
@@ -86,6 +87,7 @@
 		EFB5851625F5AA040003C12A /* WinnerOnTicTacToe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinnerOnTicTacToe.swift; sourceTree = "<group>"; };
 		EFB5851925F71D270003C12A /* RankTransformArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RankTransformArray.swift; sourceTree = "<group>"; };
 		EFB5852725F8554B0003C12A /* SearchNumberOnSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchNumberOnSortedArray.swift; sourceTree = "<group>"; };
+		EFC9652F260ED341000F1191 /* NumbersOfGoodPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumbersOfGoodPairs.swift; sourceTree = "<group>"; };
 		EFD13A44260B588900FBAF4A /* MinimunMovesChipsToSamePosition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimunMovesChipsToSamePosition.swift; sourceTree = "<group>"; };
 		EFD13A5B260C4AB200FBAF4A /* SumOfArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfArray.swift; sourceTree = "<group>"; };
 		EFD13AC1260DF70700FBAF4A /* RichestCustomerWealth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RichestCustomerWealth.swift; sourceTree = "<group>"; };
@@ -154,6 +156,7 @@
 				EFD13A44260B588900FBAF4A /* MinimunMovesChipsToSamePosition.swift */,
 				EFD13A5B260C4AB200FBAF4A /* SumOfArray.swift */,
 				EFD13AC1260DF70700FBAF4A /* RichestCustomerWealth.swift */,
+				EFC9652F260ED341000F1191 /* NumbersOfGoodPairs.swift */,
 			);
 			path = algorithm_learning;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 				EF6D86F025EC6F5700EFA87F /* RangeSumQreryImmutable.swift in Sources */,
 				EF6D868225E7341100EFA87F /* TransposeMatrix.swift in Sources */,
 				EFB5852825F8554B0003C12A /* SearchNumberOnSortedArray.swift in Sources */,
+				EFC96530260ED341000F1191 /* NumbersOfGoodPairs.swift in Sources */,
 				EFB5851A25F71D270003C12A /* RankTransformArray.swift in Sources */,
 				EFB34BD425FB37C4002D0148 /* BinaryPrefixDivisibleBy5.swift in Sources */,
 				EFD13A5C260C4AB200FBAF4A /* SumOfArray.swift in Sources */,
