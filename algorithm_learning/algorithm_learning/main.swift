@@ -114,6 +114,9 @@ print("一维数组动态和:\(SumOfArray.runningSum([3,1,2,10,1]))")
 
 //  1672. 最富有客户的资产总量
 print("最富有客户的资产总量:\(RichestCustomerWealth.maximumWealth([[1,5],[7,3],[3,5]]))")
-*/
+
 //  1512. 好数对的数目
 print("好数对的数目:\(NumberOfGoodPairs.numIdenticalPairs([1,2,3]))")
+*/
+//  1431. 拥有最多糖果的孩子
+print("拥有最多糖果的孩子\(MaxNumberOfCandies.kidsWithCandies([2,3,5,1,3], 3))")
