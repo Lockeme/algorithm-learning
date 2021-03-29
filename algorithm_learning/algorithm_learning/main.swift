@@ -117,6 +117,9 @@ print("最富有客户的资产总量:\(RichestCustomerWealth.maximumWealth([[1,
 
 //  1512. 好数对的数目
 print("好数对的数目:\(NumberOfGoodPairs.numIdenticalPairs([1,2,3]))")
-*/
+
 //  1431. 拥有最多糖果的孩子
 print("拥有最多糖果的孩子\(MaxNumberOfCandies.kidsWithCandies([2,3,5,1,3], 3))")
+*/
+//  1470. 重新排列数组
+print("重新排列数组:\(ShuffleTheArray.shuffle([1,2,3,4,4,3,2,1], 4))")
