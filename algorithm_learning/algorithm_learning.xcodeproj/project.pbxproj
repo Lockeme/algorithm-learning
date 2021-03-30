@@ -16,6 +16,7 @@
 		EF3C30B9260665DF00CE1AF1 /* ThreePartWithSumByArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3C30B8260665DF00CE1AF1 /* ThreePartWithSumByArray.swift */; };
 		EF4428C02610CD4800A555BD /* MaxNumberOfCandies.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF4428BF2610CD4800A555BD /* MaxNumberOfCandies.swift */; };
 		EF5DDB0B2609A54900FA23D9 /* XKindOfCards.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF5DDB0A2609A54900FA23D9 /* XKindOfCards.swift */; };
+		EF6324812613115A00B82946 /* CountItemMatchingRule.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6324802613115A00B82946 /* CountItemMatchingRule.swift */; };
 		EF6D867725E733E300EFA87F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D867625E733E300EFA87F /* main.swift */; };
 		EF6D868125E7341100EFA87F /* FlipingAnImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D867E25E7341100EFA87F /* FlipingAnImage.swift */; };
 		EF6D868225E7341100EFA87F /* TransposeMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D867F25E7341100EFA87F /* TransposeMatrix.swift */; };
@@ -67,6 +68,7 @@
 		EF3C30B8260665DF00CE1AF1 /* ThreePartWithSumByArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreePartWithSumByArray.swift; sourceTree = "<group>"; };
 		EF4428BF2610CD4800A555BD /* MaxNumberOfCandies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxNumberOfCandies.swift; sourceTree = "<group>"; };
 		EF5DDB0A2609A54900FA23D9 /* XKindOfCards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XKindOfCards.swift; sourceTree = "<group>"; };
+		EF6324802613115A00B82946 /* CountItemMatchingRule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountItemMatchingRule.swift; sourceTree = "<group>"; };
 		EF6D867325E733E300EFA87F /* algorithm_learning */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithm_learning; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF6D867625E733E300EFA87F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		EF6D867E25E7341100EFA87F /* FlipingAnImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlipingAnImage.swift; sourceTree = "<group>"; };
@@ -137,6 +139,7 @@
 				EFC9652F260ED341000F1191 /* NumbersOfGoodPairs.swift */,
 				EF4428BF2610CD4800A555BD /* MaxNumberOfCandies.swift */,
 				EF706A21261216EE00E240F1 /* ShuffleTheArray.swift */,
+				EF6324802613115A00B82946 /* CountItemMatchingRule.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -274,6 +277,7 @@
 				EF5DDB0B2609A54900FA23D9 /* XKindOfCards.swift in Sources */,
 				EFD13AC2260DF70700FBAF4A /* RichestCustomerWealth.swift in Sources */,
 				EF3C30B62605964900CE1AF1 /* LengthMRepeatKMode.swift in Sources */,
+				EF6324812613115A00B82946 /* CountItemMatchingRule.swift in Sources */,
 				EFD13A45260B588900FBAF4A /* MinimunMovesChipsToSamePosition.swift in Sources */,
 				EF6D868325E7341100EFA87F /* AngryBookStoreBoss.swift in Sources */,
 			);
