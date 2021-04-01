@@ -44,6 +44,7 @@
 		EFD13A45260B588900FBAF4A /* MinimunMovesChipsToSamePosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFD13A44260B588900FBAF4A /* MinimunMovesChipsToSamePosition.swift */; };
 		EFD13A5C260C4AB200FBAF4A /* SumOfArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFD13A5B260C4AB200FBAF4A /* SumOfArray.swift */; };
 		EFD13AC2260DF70700FBAF4A /* RichestCustomerWealth.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFD13AC1260DF70700FBAF4A /* RichestCustomerWealth.swift */; };
+		EFFE423026161A70004EBBF3 /* XOROperationInArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFFE422F26161A70004EBBF3 /* XOROperationInArray.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -97,6 +98,7 @@
 		EFD13A44260B588900FBAF4A /* MinimunMovesChipsToSamePosition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimunMovesChipsToSamePosition.swift; sourceTree = "<group>"; };
 		EFD13A5B260C4AB200FBAF4A /* SumOfArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfArray.swift; sourceTree = "<group>"; };
 		EFD13AC1260DF70700FBAF4A /* RichestCustomerWealth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RichestCustomerWealth.swift; sourceTree = "<group>"; };
+		EFFE422F26161A70004EBBF3 /* XOROperationInArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XOROperationInArray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +142,7 @@
 				EF4428BF2610CD4800A555BD /* MaxNumberOfCandies.swift */,
 				EF706A21261216EE00E240F1 /* ShuffleTheArray.swift */,
 				EF6324802613115A00B82946 /* CountItemMatchingRule.swift */,
+				EFFE422F26161A70004EBBF3 /* XOROperationInArray.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -279,6 +282,7 @@
 				EF3C30B62605964900CE1AF1 /* LengthMRepeatKMode.swift in Sources */,
 				EF6324812613115A00B82946 /* CountItemMatchingRule.swift in Sources */,
 				EFD13A45260B588900FBAF4A /* MinimunMovesChipsToSamePosition.swift in Sources */,
+				EFFE423026161A70004EBBF3 /* XOROperationInArray.swift in Sources */,
 				EF6D868325E7341100EFA87F /* AngryBookStoreBoss.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
