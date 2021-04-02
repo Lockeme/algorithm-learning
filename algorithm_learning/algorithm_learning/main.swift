@@ -126,6 +126,9 @@ print("重新排列数组:\(ShuffleTheArray.shuffle([1,2,3,4,4,3,2,1], 4))")
 
 //  1773. 统计匹配检索规则的物品数量
 print("统计匹配检索规则的物品数量:\(CountItemMatchingRule.countMatches([["phone","blue","pixel"],["computer","silver","lenovo"],["phone","gold","iphone"]], "type", "phone"))")
-*/
+
 //  1486. 数组异或操作
 print("数组异或操作:\(XOROperationInArray.xorOperation(5, 0))")
+*/
+//  1313. 解压缩编码列表
+print("解压缩编码列表:\(DecompressRunLengthEncodedList.decompressRLElist([1,2,3,4]))")
