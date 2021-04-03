@@ -129,6 +129,9 @@ print("统计匹配检索规则的物品数量:\(CountItemMatchingRule.countMatc
 
 //  1486. 数组异或操作
 print("数组异或操作:\(XOROperationInArray.xorOperation(5, 0))")
-*/
+
 //  1313. 解压缩编码列表
 print("解压缩编码列表:\(DecompressRunLengthEncodedList.decompressRLElist([1,2,3,4]))")
+*/
+//  1389. 按既定顺序创建目标数组
+print("按既定顺序创建目标数组:\(TargetArrayInOrder.createTargetArray([1,2,3,4,0], [0,1,2,3,0]))")
