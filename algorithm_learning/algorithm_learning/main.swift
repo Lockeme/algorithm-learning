@@ -135,6 +135,9 @@ print("解压缩编码列表:\(DecompressRunLengthEncodedList.decompressRLElist(
 
 //  1389. 按既定顺序创建目标数组
 print("按既定顺序创建目标数组:\(TargetArrayInOrder.createTargetArray([1,2,3,4,0], [0,1,2,3,0]))")
-*/
+
 //  1365. 有多少小于当前数字的数字
 print("有多少小于当前数字的数字:\(SmallerNumberInArray.smallerNumbersThanCurrentExcellent([6,5,4,8]))")
+*/
+//  1266. 访问所有点的最小时间
+print("访问所有点的最小时间:\(MinTimeVisitAllPoint.minTimeToVisitAllPoints([[3,2],[-2,2]]))")

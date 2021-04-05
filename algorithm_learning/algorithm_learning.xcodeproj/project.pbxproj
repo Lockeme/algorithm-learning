@@ -46,6 +46,7 @@
 		EFD13AC2260DF70700FBAF4A /* RichestCustomerWealth.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFD13AC1260DF70700FBAF4A /* RichestCustomerWealth.swift */; };
 		EFEB6D392618870000BCCB81 /* TargetArrayInOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFEB6D382618870000BCCB81 /* TargetArrayInOrder.swift */; };
 		EFEB6D3C261A05D900BCCB81 /* SmallerNumberInArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFEB6D3B261A05D900BCCB81 /* SmallerNumberInArray.swift */; };
+		EFEB6D3F261AAA6800BCCB81 /* MinTimeVisitAllPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFEB6D3E261AAA6800BCCB81 /* MinTimeVisitAllPoint.swift */; };
 		EFFE423026161A70004EBBF3 /* XOROperationInArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFFE422F26161A70004EBBF3 /* XOROperationInArray.swift */; };
 		EFFE455A26175469004EBBF3 /* DecompressRunLengthEncodedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFFE455926175469004EBBF3 /* DecompressRunLengthEncodedList.swift */; };
 /* End PBXBuildFile section */
@@ -103,6 +104,7 @@
 		EFD13AC1260DF70700FBAF4A /* RichestCustomerWealth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RichestCustomerWealth.swift; sourceTree = "<group>"; };
 		EFEB6D382618870000BCCB81 /* TargetArrayInOrder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TargetArrayInOrder.swift; sourceTree = "<group>"; };
 		EFEB6D3B261A05D900BCCB81 /* SmallerNumberInArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallerNumberInArray.swift; sourceTree = "<group>"; };
+		EFEB6D3E261AAA6800BCCB81 /* MinTimeVisitAllPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinTimeVisitAllPoint.swift; sourceTree = "<group>"; };
 		EFFE422F26161A70004EBBF3 /* XOROperationInArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XOROperationInArray.swift; sourceTree = "<group>"; };
 		EFFE455926175469004EBBF3 /* DecompressRunLengthEncodedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecompressRunLengthEncodedList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -152,6 +154,7 @@
 				EFFE455926175469004EBBF3 /* DecompressRunLengthEncodedList.swift */,
 				EFEB6D382618870000BCCB81 /* TargetArrayInOrder.swift */,
 				EFEB6D3B261A05D900BCCB81 /* SmallerNumberInArray.swift */,
+				EFEB6D3E261AAA6800BCCB81 /* MinTimeVisitAllPoint.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -281,6 +284,7 @@
 				EFD13A5C260C4AB200FBAF4A /* SumOfArray.swift in Sources */,
 				EFFE455A26175469004EBBF3 /* DecompressRunLengthEncodedList.swift in Sources */,
 				EF3C306526043EF000CE1AF1 /* CheckDoubleExist.swift in Sources */,
+				EFEB6D3F261AAA6800BCCB81 /* MinTimeVisitAllPoint.swift in Sources */,
 				EFB5850E25F23F900003C12A /* SortedMerge.swift in Sources */,
 				EF6D867725E733E300EFA87F /* main.swift in Sources */,
 				EFB5851125F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift in Sources */,
