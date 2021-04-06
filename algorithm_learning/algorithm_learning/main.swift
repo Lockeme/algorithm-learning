@@ -138,6 +138,9 @@ print("按既定顺序创建目标数组:\(TargetArrayInOrder.createTargetArray(
 
 //  1365. 有多少小于当前数字的数字
 print("有多少小于当前数字的数字:\(SmallerNumberInArray.smallerNumbersThanCurrentExcellent([6,5,4,8]))")
-*/
+
 //  1266. 访问所有点的最小时间
 print("访问所有点的最小时间:\(MinTimeVisitAllPoint.minTimeToVisitAllPoints([[3,2],[-2,2]]))")
+*/
+//  1295. 统计位数为偶数的数字
+print("统计位数为偶数的数字:\(FindEventNumbers.findNumbers([555,901,482,1771]))")
