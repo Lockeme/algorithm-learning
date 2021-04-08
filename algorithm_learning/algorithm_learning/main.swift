@@ -144,6 +144,9 @@ print("访问所有点的最小时间:\(MinTimeVisitAllPoint.minTimeToVisitAllPo
 
 //  1295. 统计位数为偶数的数字
 print("统计位数为偶数的数字:\(FindEventNumbers.findNumbers([555,901,482,1771]))")
-*/
+
 //  1572. 矩阵对角线元素的和
 print("矩阵对角线元素的和:\(MatrixDiagonalSum.diagonalSum([[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1]]))")
+*/
+//  1732. 找到最高海拔
+print("找到最高海拔:\(FindHighestAltitude.largestAltitude([-5,1,5,0,-7]))")

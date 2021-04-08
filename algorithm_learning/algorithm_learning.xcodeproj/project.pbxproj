@@ -15,6 +15,7 @@
 		EF3C30B62605964900CE1AF1 /* LengthMRepeatKMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3C30B52605964900CE1AF1 /* LengthMRepeatKMode.swift */; };
 		EF3C30B9260665DF00CE1AF1 /* ThreePartWithSumByArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3C30B8260665DF00CE1AF1 /* ThreePartWithSumByArray.swift */; };
 		EF4428C02610CD4800A555BD /* MaxNumberOfCandies.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF4428BF2610CD4800A555BD /* MaxNumberOfCandies.swift */; };
+		EF5726B1261F17CE009E632A /* FindHighestAltitude.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF5726B0261F17CE009E632A /* FindHighestAltitude.swift */; };
 		EF5DDB0B2609A54900FA23D9 /* XKindOfCards.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF5DDB0A2609A54900FA23D9 /* XKindOfCards.swift */; };
 		EF6324812613115A00B82946 /* CountItemMatchingRule.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6324802613115A00B82946 /* CountItemMatchingRule.swift */; };
 		EF6D867725E733E300EFA87F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6D867625E733E300EFA87F /* main.swift */; };
@@ -74,6 +75,7 @@
 		EF3C30B52605964900CE1AF1 /* LengthMRepeatKMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthMRepeatKMode.swift; sourceTree = "<group>"; };
 		EF3C30B8260665DF00CE1AF1 /* ThreePartWithSumByArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreePartWithSumByArray.swift; sourceTree = "<group>"; };
 		EF4428BF2610CD4800A555BD /* MaxNumberOfCandies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxNumberOfCandies.swift; sourceTree = "<group>"; };
+		EF5726B0261F17CE009E632A /* FindHighestAltitude.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindHighestAltitude.swift; sourceTree = "<group>"; };
 		EF5DDB0A2609A54900FA23D9 /* XKindOfCards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XKindOfCards.swift; sourceTree = "<group>"; };
 		EF6324802613115A00B82946 /* CountItemMatchingRule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountItemMatchingRule.swift; sourceTree = "<group>"; };
 		EF6D867325E733E300EFA87F /* algorithm_learning */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithm_learning; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -161,6 +163,7 @@
 				EFEB6D3E261AAA6800BCCB81 /* MinTimeVisitAllPoint.swift */,
 				EFBD79EE261C7EEA0036574F /* FindEventNumbers.swift */,
 				EFBD79FD261DFF190036574F /* MatrixDiagonalSum.swift */,
+				EF5726B0261F17CE009E632A /* FindHighestAltitude.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -275,6 +278,7 @@
 				EFB34BDF25FCF5D8002D0148 /* GetMaximumGenerated.swift in Sources */,
 				EF6D86E725E87F2D00EFA87F /* FindNumOfValidWords.swift in Sources */,
 				EF4428C02610CD4800A555BD /* MaxNumberOfCandies.swift in Sources */,
+				EF5726B1261F17CE009E632A /* FindHighestAltitude.swift in Sources */,
 				EF3C302E26003F7400CE1AF1 /* CheckStraigntLine.swift in Sources */,
 				EFB34BE225FDF858002D0148 /* MasterMind.swift in Sources */,
 				EF706A22261216EE00E240F1 /* ShuffleTheArray.swift in Sources */,
