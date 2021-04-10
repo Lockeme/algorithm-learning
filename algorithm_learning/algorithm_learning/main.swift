@@ -147,6 +147,9 @@ print("统计位数为偶数的数字:\(FindEventNumbers.findNumbers([555,901,48
 
 //  1572. 矩阵对角线元素的和
 print("矩阵对角线元素的和:\(MatrixDiagonalSum.diagonalSum([[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1]]))")
-*/
+
 //  1732. 找到最高海拔
 print("找到最高海拔:\(FindHighestAltitude.largestAltitude([-5,1,5,0,-7]))")
+*/
+//  1450. 在既定时间做作业的学生人数
+print("在既定时间做作业的学生人数:\(NumberOfStudentDoingHomework.busyStudent([1,2,3], [3,2,7], 4))")

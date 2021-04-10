@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EF0506D8262135B60035D68E /* NumberOfStudentDoingHomework.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0506D7262135B60035D68E /* NumberOfStudentDoingHomework.swift */; };
 		EF315F5D26081D060057AA4D /* ValidMountainArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF315F5C26081D060057AA4D /* ValidMountainArray.swift */; };
 		EF3C302E26003F7400CE1AF1 /* CheckStraigntLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3C302D26003F7400CE1AF1 /* CheckStraigntLine.swift */; };
 		EF3C303726018BF900CE1AF1 /* SpiralOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3C303626018BF900CE1AF1 /* SpiralOrder.swift */; };
@@ -67,6 +68,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		EF0506D7262135B60035D68E /* NumberOfStudentDoingHomework.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberOfStudentDoingHomework.swift; sourceTree = "<group>"; };
 		EF315F5C26081D060057AA4D /* ValidMountainArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidMountainArray.swift; sourceTree = "<group>"; };
 		EF3C302D26003F7400CE1AF1 /* CheckStraigntLine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckStraigntLine.swift; sourceTree = "<group>"; };
 		EF3C303626018BF900CE1AF1 /* SpiralOrder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiralOrder.swift; sourceTree = "<group>"; };
@@ -164,6 +166,7 @@
 				EFBD79EE261C7EEA0036574F /* FindEventNumbers.swift */,
 				EFBD79FD261DFF190036574F /* MatrixDiagonalSum.swift */,
 				EF5726B0261F17CE009E632A /* FindHighestAltitude.swift */,
+				EF0506D7262135B60035D68E /* NumberOfStudentDoingHomework.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -280,6 +283,7 @@
 				EF4428C02610CD4800A555BD /* MaxNumberOfCandies.swift in Sources */,
 				EF5726B1261F17CE009E632A /* FindHighestAltitude.swift in Sources */,
 				EF3C302E26003F7400CE1AF1 /* CheckStraigntLine.swift in Sources */,
+				EF0506D8262135B60035D68E /* NumberOfStudentDoingHomework.swift in Sources */,
 				EFB34BE225FDF858002D0148 /* MasterMind.swift in Sources */,
 				EF706A22261216EE00E240F1 /* ShuffleTheArray.swift in Sources */,
 				EF6D868125E7341100EFA87F /* FlipingAnImage.swift in Sources */,
