@@ -150,6 +150,9 @@ print("矩阵对角线元素的和:\(MatrixDiagonalSum.diagonalSum([[1,1,1,1],[1
 
 //  1732. 找到最高海拔
 print("找到最高海拔:\(FindHighestAltitude.largestAltitude([-5,1,5,0,-7]))")
-*/
+
 //  1450. 在既定时间做作业的学生人数
 print("在既定时间做作业的学生人数:\(NumberOfStudentDoingHomework.busyStudent([1,2,3], [3,2,7], 4))")
+*/
+//  1588. 所有奇数长度子数组的和
+print(SumOfAllOddSubArray.sumOddLengthSubarrays([1,4,2,5,3]))
