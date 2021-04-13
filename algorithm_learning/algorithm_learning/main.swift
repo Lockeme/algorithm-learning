@@ -156,6 +156,14 @@ print("在既定时间做作业的学生人数:\(NumberOfStudentDoingHomework.bu
 
 //  1588. 所有奇数长度子数组的和
 print(SumOfAllOddSubArray.sumOddLengthSubarrays([1,4,2,5,3]))
-*/
+
 //  1534. 统计好三元组
 print("统计好三元组:\(CountGoodTriples.countGoodTriplets([1,1,2,2,3], 0, 0, 1))")
+*/
+//  1656. 设计有序流
+let os = OrderedStream.init(5)
+print("设计有序流:\(os.insert(3, "ccccc"))")
+print("设计有序流:\(os.insert(1, "aaaaa"))")
+print("设计有序流:\(os.insert(2, "bbbbb"))")
+print("设计有序流:\(os.insert(5, "eeeee"))")
+print("设计有序流:\(os.insert(4, "ddddd"))")
