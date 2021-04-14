@@ -34,6 +34,7 @@
 		EF706A22261216EE00E240F1 /* ShuffleTheArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF706A21261216EE00E240F1 /* ShuffleTheArray.swift */; };
 		EFA9D2DD2624858600E32BA7 /* CountGoodTriples.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFA9D2DC2624858600E32BA7 /* CountGoodTriples.swift */; };
 		EFA9D2E72625B95A00E32BA7 /* DesignAnOrderedStream.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFA9D2E62625B95A00E32BA7 /* DesignAnOrderedStream.swift */; };
+		EFA9D2F22627036400E32BA7 /* ReplaceRightMaxNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFA9D2F12627036400E32BA7 /* ReplaceRightMaxNumber.swift */; };
 		EFB34BD125F9E72B002D0148 /* SlowestKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB34BD025F9E72B002D0148 /* SlowestKey.swift */; };
 		EFB34BD425FB37C4002D0148 /* BinaryPrefixDivisibleBy5.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB34BD325FB37C4002D0148 /* BinaryPrefixDivisibleBy5.swift */; };
 		EFB34BDF25FCF5D8002D0148 /* GetMaximumGenerated.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB34BDE25FCF5D8002D0148 /* GetMaximumGenerated.swift */; };
@@ -99,6 +100,7 @@
 		EF706A21261216EE00E240F1 /* ShuffleTheArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShuffleTheArray.swift; sourceTree = "<group>"; };
 		EFA9D2DC2624858600E32BA7 /* CountGoodTriples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountGoodTriples.swift; sourceTree = "<group>"; };
 		EFA9D2E62625B95A00E32BA7 /* DesignAnOrderedStream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignAnOrderedStream.swift; sourceTree = "<group>"; };
+		EFA9D2F12627036400E32BA7 /* ReplaceRightMaxNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplaceRightMaxNumber.swift; sourceTree = "<group>"; };
 		EFB34BD025F9E72B002D0148 /* SlowestKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlowestKey.swift; sourceTree = "<group>"; };
 		EFB34BD325FB37C4002D0148 /* BinaryPrefixDivisibleBy5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryPrefixDivisibleBy5.swift; sourceTree = "<group>"; };
 		EFB34BDE25FCF5D8002D0148 /* GetMaximumGenerated.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetMaximumGenerated.swift; sourceTree = "<group>"; };
@@ -176,6 +178,7 @@
 				EF3610F42622E533001A0B0D /* SumOfAllOddSubArray.swift */,
 				EFA9D2DC2624858600E32BA7 /* CountGoodTriples.swift */,
 				EFA9D2E62625B95A00E32BA7 /* DesignAnOrderedStream.swift */,
+				EFA9D2F12627036400E32BA7 /* ReplaceRightMaxNumber.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -322,6 +325,7 @@
 				EF5DDB0B2609A54900FA23D9 /* XKindOfCards.swift in Sources */,
 				EFD13AC2260DF70700FBAF4A /* RichestCustomerWealth.swift in Sources */,
 				EF3C30B62605964900CE1AF1 /* LengthMRepeatKMode.swift in Sources */,
+				EFA9D2F22627036400E32BA7 /* ReplaceRightMaxNumber.swift in Sources */,
 				EF6324812613115A00B82946 /* CountItemMatchingRule.swift in Sources */,
 				EFEB6D392618870000BCCB81 /* TargetArrayInOrder.swift in Sources */,
 				EFD13A45260B588900FBAF4A /* MinimunMovesChipsToSamePosition.swift in Sources */,
