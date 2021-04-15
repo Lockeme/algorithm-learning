@@ -167,6 +167,9 @@ print("设计有序流:\(os.insert(1, "aaaaa"))")
 print("设计有序流:\(os.insert(2, "bbbbb"))")
 print("设计有序流:\(os.insert(5, "eeeee"))")
 print("设计有序流:\(os.insert(4, "ddddd"))")
-*/
+
 //  1299. 将每个元素替换为右侧最大元素
 print("将每个元素替换为右侧最大元素:\(ReplaceRightMaxNumber.replacElementsExcellent([17,18,5,4,6,1]))")
+*/
+//1464. 数组中两元素的最大乘积
+print("数组中两元素的最大乘积:\(MaxTwoOfArray.maxProduct([3,4,5,2]))")
