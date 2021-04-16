@@ -36,6 +36,7 @@
 		EFA9D2E72625B95A00E32BA7 /* DesignAnOrderedStream.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFA9D2E62625B95A00E32BA7 /* DesignAnOrderedStream.swift */; };
 		EFA9D2F22627036400E32BA7 /* ReplaceRightMaxNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFA9D2F12627036400E32BA7 /* ReplaceRightMaxNumber.swift */; };
 		EFA9D2FC262860A400E32BA7 /* MaxTwoOfArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFA9D2FB262860A400E32BA7 /* MaxTwoOfArray.swift */; };
+		EFA9D3182629A19000E32BA7 /* CountNegativeNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFA9D3172629A19000E32BA7 /* CountNegativeNumbers.swift */; };
 		EFB34BD125F9E72B002D0148 /* SlowestKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB34BD025F9E72B002D0148 /* SlowestKey.swift */; };
 		EFB34BD425FB37C4002D0148 /* BinaryPrefixDivisibleBy5.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB34BD325FB37C4002D0148 /* BinaryPrefixDivisibleBy5.swift */; };
 		EFB34BDF25FCF5D8002D0148 /* GetMaximumGenerated.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB34BDE25FCF5D8002D0148 /* GetMaximumGenerated.swift */; };
@@ -103,6 +104,7 @@
 		EFA9D2E62625B95A00E32BA7 /* DesignAnOrderedStream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignAnOrderedStream.swift; sourceTree = "<group>"; };
 		EFA9D2F12627036400E32BA7 /* ReplaceRightMaxNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplaceRightMaxNumber.swift; sourceTree = "<group>"; };
 		EFA9D2FB262860A400E32BA7 /* MaxTwoOfArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxTwoOfArray.swift; sourceTree = "<group>"; };
+		EFA9D3172629A19000E32BA7 /* CountNegativeNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountNegativeNumbers.swift; sourceTree = "<group>"; };
 		EFB34BD025F9E72B002D0148 /* SlowestKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlowestKey.swift; sourceTree = "<group>"; };
 		EFB34BD325FB37C4002D0148 /* BinaryPrefixDivisibleBy5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryPrefixDivisibleBy5.swift; sourceTree = "<group>"; };
 		EFB34BDE25FCF5D8002D0148 /* GetMaximumGenerated.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetMaximumGenerated.swift; sourceTree = "<group>"; };
@@ -182,6 +184,7 @@
 				EFA9D2E62625B95A00E32BA7 /* DesignAnOrderedStream.swift */,
 				EFA9D2F12627036400E32BA7 /* ReplaceRightMaxNumber.swift */,
 				EFA9D2FB262860A400E32BA7 /* MaxTwoOfArray.swift */,
+				EFA9D3172629A19000E32BA7 /* CountNegativeNumbers.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -322,6 +325,7 @@
 				EFEB6D3F261AAA6800BCCB81 /* MinTimeVisitAllPoint.swift in Sources */,
 				EFB5850E25F23F900003C12A /* SortedMerge.swift in Sources */,
 				EF6D867725E733E300EFA87F /* main.swift in Sources */,
+				EFA9D3182629A19000E32BA7 /* CountNegativeNumbers.swift in Sources */,
 				EFB5851125F34DFD0003C12A /* NumberOfEquivalentDominoPairs.swift in Sources */,
 				EF3C303E2602DC6600CE1AF1 /* MissingNumber.swift in Sources */,
 				EFB5851725F5AA040003C12A /* WinnerOnTicTacToe.swift in Sources */,
